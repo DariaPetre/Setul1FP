@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ecuatia de gradul I/1.0.0": {
+        "runtime": {
+          "Ecuatia de gradul I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecuatia de gradul I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

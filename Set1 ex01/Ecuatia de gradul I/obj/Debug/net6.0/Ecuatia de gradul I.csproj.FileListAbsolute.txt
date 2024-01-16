@@ -1,0 +1,14 @@
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\bin\Debug\net6.0\Ecuatia de gradul I.exe
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\bin\Debug\net6.0\Ecuatia de gradul I.deps.json
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\bin\Debug\net6.0\Ecuatia de gradul I.runtimeconfig.json
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\bin\Debug\net6.0\Ecuatia de gradul I.dll
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\bin\Debug\net6.0\Ecuatia de gradul I.pdb
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.AssemblyInfoInputs.cache
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.AssemblyInfo.cs
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.csproj.CoreCompileInputs.cache
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.dll
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\refint\Ecuatia de gradul I.dll
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.pdb
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\Ecuatia de gradul I.genruntimeconfig.cache
+C:\Users\daria\OneDrive\Desktop\Setul 1 FP\Set1 ex1\Ecuatia de gradul I\obj\Debug\net6.0\ref\Ecuatia de gradul I.dll
